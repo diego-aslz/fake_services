@@ -1,4 +1,4 @@
-# frozen_string_literal: true
+require "webmock"
 
 require_relative "fake_services/version"
 
